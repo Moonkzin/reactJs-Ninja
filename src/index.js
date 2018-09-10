@@ -4,6 +4,7 @@
 Não esquecer de dar o require nas classes necessárias.
 o ReactDOM.Render, serve para fazer aparecer na tela
 e virá dentro da div que tenha o data-js="app"
+usando reactDOM
 */
 
 var Title = require('./app')
